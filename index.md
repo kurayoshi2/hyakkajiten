@@ -4,6 +4,7 @@
 
 ## 記事例
 - [山形県](yamagata.md)
+- [山形市](yamagatatown.md)
 
 ### 画像の追加方法
 画像はリポジトリ内の`images`フォルダにアップロードして、Markdownでリンクを作成できます。
