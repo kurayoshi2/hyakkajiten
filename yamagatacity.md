@@ -54,7 +54,7 @@
 
 ## 画像ギャラリー
 
-![山形市の街並み](https://example.com/images/yamagata-city.jpg)
+![山形市の街並み](https://www.viewtabi.jp/wp-content/uploads/2022/06/article_img_22062101_02.jpg))
 
 ---
 
